@@ -4,7 +4,7 @@ Data analysis of Nigerian petroleum products using Python
 
 This project presents a comparative analysis of the key physicochemical properties—**API gravity**, **kinematic viscosity**, **pour point**, and **flash point**—of three petroleum products: Premium Motor Spirit (PMS), Automotive Gas Oil (AGO), and Dual-Purpose Kerosene (DPK). The analysis is based on data extracted from a peer-reviewed Nigerian study.
 
-## 📌 Project Objective
+# Project Objective
 
 To use Python (Pandas & Matplotlib) to explore, compare, and visualize how these critical fuel properties differ among samples (P1, P2, D1, D2, K1, K2), and to understand what this tells us about their performance, quality, and handling characteristics.
 
@@ -37,7 +37,7 @@ The dataset includes:
 - **Python 3**
 - **Pandas** – for data handling
 - **Matplotlib** – for visualizations
-- (Optionally) **Jupyter Notebook** – for analysis presentation
+- **Jupyter Notebook** – for analysis presentation
 
 ---
 
